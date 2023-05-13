@@ -11,4 +11,75 @@ html {
 
 body {
   background: #fff;
+  line-height: 1.6rem;
+}
+
+.container {
+  max-width: 80vw;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 5rem;
+}
+
+/* HEADER SECTION  */
+.header {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  align-items: center;
+}
+
+.header .image {
+  width: 20vw;
+  height: 20vw;
+  border-radius: 2vw;
+}
+
+.header .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: inherit;
+}
+
+.header .name {
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: #4e5150;
+}
+
+.header p {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #a9a9a9;
+}
+
+.header .stats {
+  display: flex;
+  gap: 2rem;
+}
+
+.header .stats .stats-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: .5rem;
+  background-color: #e5e5e5;
+  border-radius: 1rem;
+  padding: 1.5rem 2rem;
+}
+
+.header .stats .stats-details h4 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #4e5150;
+}
+
+.header .stats .stats-details p {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #bdbdbd;
 }
