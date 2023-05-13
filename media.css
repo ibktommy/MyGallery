@@ -1,0 +1,9 @@
+@media screen and (max-width: 500px){
+  .header {
+    row-gap: 1.5rem;
+  }
+
+  .header .stats .stats-details h4 {
+    margin-bottom: 1vw;
+  }
+}
