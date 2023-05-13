@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="[https://{your-demo-link.your-domain}](https://atomdev-mygallery-devchallenge.netlify.app/)">
+    <a href="https://atomdev-mygallery-devchallenge.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="[https://{your-url-to-the-solution}](https://devchallenges.io/solutions/yaiJDrP3poYFayqLgz4B)">
+    <a href="https://devchallenges.io/solutions/yaiJDrP3poYFayqLgz4B">
       Solution
     </a>
     <span> | </span>
@@ -74,6 +74,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com]([https://{your-web-site-link}](https://atomdev-portfolio.netlify.app))
-- GitHub [@your-username]([https://{github.com/your-usermame}](https://github.com/ibktommy))
-- Twitter [@your-twitter]([https://{twitter.com/your-username}](https://twitter.com/ATOMQuadri))
+- Website [your-website.com](https://atomdev-portfolio.netlify.app)
+- GitHub [@your-username](https://github.com/ibktommy)
+- Twitter [@your-twitter](https://twitter.com/ATOMQuadri)
