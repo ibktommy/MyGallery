@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">My Gallery</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="[https://{your-demo-link.your-domain}](https://atomdev-mygallery-devchallenge.netlify.app/)">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="[https://{your-url-to-the-solution}](https://devchallenges.io/solutions/yaiJDrP3poYFayqLgz4B)">
       Solution
     </a>
     <span> | </span>
@@ -26,11 +26,12 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
@@ -40,9 +41,12 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
+- Where can I see your demo? <br>
+  The demo can be accessed by clicking on the @netlify link above, under the SOLUTION heading.
+- What was your experience?<br>
+  It was good, making the webpage responsive was a good one.
+- What have you learned/improved?<br>
+  I learned how to make use of CSS view-width sizing property to make items on a webpage responsive
 - Your wisdom? :)
 
 ### Built With
@@ -70,6 +74,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com]([https://{your-web-site-link}](https://atomdev-portfolio.netlify.app))
+- GitHub [@your-username]([https://{github.com/your-usermame}](https://github.com/ibktommy))
+- Twitter [@your-twitter]([https://{twitter.com/your-username}](https://twitter.com/ATOMQuadri))
