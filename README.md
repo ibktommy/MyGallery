@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/ibktommy/MyGallery/blob/main/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -74,6 +74,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://atomdev-portfolio.netlify.app)
-- GitHub [@your-username](https://github.com/ibktommy)
-- Twitter [@your-twitter](https://twitter.com/ATOMQuadri)
+- Website [My Personal website](https://atomdev-portfolio.netlify.app)
+- GitHub [@ibktommy](https://github.com/ibktommy)
+- Twitter [@ATOMQuadri](https://twitter.com/ATOMQuadri)
