@@ -49,6 +49,7 @@ body {
   font-size: 4vw;
   font-weight: 600;
   color: #4e5150;
+  margin: 2rem 0 3rem 0;
 }
 
 .header p {
@@ -77,7 +78,7 @@ body {
   font-size: 3vw;
   font-weight: 600;
   color: #4e5150;
-  margin-bottom: 2vw;
+  margin-bottom: 5rem;
 }
 
 .header .stats .stats-details p {
@@ -93,7 +94,6 @@ body {
   display: flex;
   flex-direction: column;
   row-gap: 2.5vw;
-  /* border: .1rem solid #000; */
 }
 
 .gallery-top {
@@ -101,7 +101,6 @@ body {
   gap: 2.5vw;
   width: 100%;
   height: 30vw;
-  /* border: .1rem solid #000; */
 }
 
 .gallery-top img {
